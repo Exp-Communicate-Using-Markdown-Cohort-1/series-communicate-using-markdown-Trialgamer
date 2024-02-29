@@ -5,3 +5,7 @@ To get the Hello World! output in Python do this code:
 ```
 print("Hello World")
 ```
+
+- [ ] Explore Github Education
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
